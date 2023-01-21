@@ -38,6 +38,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
     </tr>
+<!--     <tr>
+      <td><a href=""><b>Comming soon</b></a></td>
+      <td><img alt="Stars" src=""/></td>
+      <td><img alt="Forks" src=""/></td>
+      <td><img alt="Issues" src=""/></td>
+      <td><img alt="Pull Requests" src=""/></td>
+    </tr> -->
   </tbody>
 </table>
   <h3>Where to find me</h3>
