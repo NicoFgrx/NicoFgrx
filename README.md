@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NicoFgrx&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. 
+  <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. I am learning golang with the Tour of Go.
 
 <h3>Open source projects</h3>
 <table>
