@@ -7,6 +7,18 @@
 <p>
   <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. I am learning golang with the Tour of Go.
 
+<h3>Various techs I use</h3>
+<p>
+  
+  <img alt="python" src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" />  
+  <img alt="bash" src="https://img.shields.io/badge/-bash-black?logo=gnu%20bash&logoColor=white"/>  
+  <img alt="golang" src="https://img.shields.io/badge/-golang-blue?logo=go&logoColor=white"/>  
+  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=white"/>  
+  <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>  
+  <img alt="packer" src="https://img.shields.io/badge/-packer-blue?logo=packer&logoColor=white"/>  
+  
+
+</p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
