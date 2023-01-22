@@ -9,18 +9,17 @@
 
 <h3>Various techs I use</h3>
 <p>
-  
-  <img alt="python" src="https://img.shields.io/badge/-python-white?logo=python&logoColor=#3776AB" />  
-  <img alt="bash" src="https://img.shields.io/badge/-bash-black?logo=gnu%20bash&logoColor=#4EAA25"/>  
-  <img alt="golang" src="https://img.shields.io/badge/-golang-white?logo=go&logoColor=#00ADD8"/>  
-  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=#EE0000"/>  
-  <img alt="terraform" src="https://img.shields.io/badge/-terraform-white?logo=terraform&logoColor=purple"/>  
-  <img alt="packer" src="https://img.shields.io/badge/-packer-white?logo=packer&logoColor=#02A8EF"/> 
-  <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-black?logo=proxmox&logoColor=#E57000"/>
-  <img alt="fortinet" src="https://img.shields.io/badge/-fortinet-white?logo=fortinet&logoColor=#EE3124"/>
-  <img alt="cisco" src="https://img.shields.io/badge/-cisco-white?logo=cisco&logoColor=#1BA0D7"/>
-  <img alt="git" src="https://img.shields.io/badge/-git-gray?logo=git&logoColor=#F05032"/>
-  <img alt=docker" src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=#2496ED"/>
+<img alt="ansible" src="https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white"/>
+<img alt="fortinet" src="https://img.shields.io/badge/-fortinet-EE3124?logo=fortinet&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>
+<img alt="proxmox" src="https://img.shields.io/badge/-proxmox-E57000?logo=proxmox&logoColor=white"/>
+<img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?logo=gnu%20bash&logoColor=white"/>
+<img alt="packer" src="https://img.shields.io/badge/-packer-02A8EF?logo=packer&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white"/>
+<img alt="cisco" src="https://img.shields.io/badge/-cisco-1BA0D7?logo=cisco&logoColor=white"/>
+<img alt="golang" src="https://img.shields.io/badge/-golang-00ADD8?logo=go&logoColor=white"/>
+<img alt="python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white"/>
+<img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>
   
 
 </p>
