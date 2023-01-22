@@ -19,6 +19,8 @@
   <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-black?logo=proxmox&logoColor=#E57000"/>
   <img alt="fortinet" src="https://img.shields.io/badge/-fortinet-white?logo=fortinet&logoColor=#EE3124"/>
   <img alt="cisco" src="https://img.shields.io/badge/-cisco-white?logo=cisco&logoColor=#1BA0D7"/>
+  <img alt="git" src="https://img.shields.io/badge/-git-gray?logo=git&logoColor=#F05032"/>
+  <img alt=docker" src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=#2496ED"/>
   
 
 </p>
