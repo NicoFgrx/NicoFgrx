@@ -10,12 +10,15 @@
 <h3>Various techs I use</h3>
 <p>
   
-  <img alt="python" src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" />  
-  <img alt="bash" src="https://img.shields.io/badge/-bash-black?logo=gnu%20bash&logoColor=white"/>  
-  <img alt="golang" src="https://img.shields.io/badge/-golang-blue?logo=go&logoColor=white"/>  
-  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=white"/>  
-  <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>  
-  <img alt="packer" src="https://img.shields.io/badge/-packer-blue?logo=packer&logoColor=white"/>  
+  <img alt="python" src="https://img.shields.io/badge/-python-white?logo=python&logoColor=#3776AB" />  
+  <img alt="bash" src="https://img.shields.io/badge/-bash-black?logo=gnu%20bash&logoColor=#4EAA25"/>  
+  <img alt="golang" src="https://img.shields.io/badge/-golang-white?logo=go&logoColor=#00ADD8"/>  
+  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=#EE0000"/>  
+  <img alt="terraform" src="https://img.shields.io/badge/-terraform-white?logo=terraform&logoColor=purple"/>  
+  <img alt="packer" src="https://img.shields.io/badge/-packer-white?logo=packer&logoColor=#02A8EF"/> 
+  <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-black?logo=proxmox&logoColor=#E57000"/>
+  <img alt="fortinet" src="https://img.shields.io/badge/-fortinet-white?logo=fortinet&logoColor=#EE3124"/>
+  <img alt="cisco" src="https://img.shields.io/badge/-cisco-white?logo=cisco&logoColor=#1BA0D7"/>
   
 
 </p>
