@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NicoFgrx&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
-  <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. I am learning golang with the Tour of Go.
+  <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. CFTER-L3 comming soon :D
 
 <h3>Various techs I use</h3>
 <p>
@@ -42,12 +42,19 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/donkesport/donk-lan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/donkesport/donk-lan?style=flat-square&labelColor=343b41"/></td>
     </tr>
-        <tr>
+    <tr>
       <td><a href="https://github.com/WildPasta/discord_bot_chaise"><b>Simple discord bot in python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pandatix/24hiut-2023-cyber"><b>Networking cybersecurity challenges</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
     </tr>
 <!--     <tr>
       <td><a href=""><b>Comming soon</b></a></td>
