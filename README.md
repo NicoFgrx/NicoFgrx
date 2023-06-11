@@ -19,7 +19,7 @@
 <img alt="cisco" src="https://img.shields.io/badge/-cisco-1BA0D7?logo=cisco&logoColor=white"/>
 <img alt="golang" src="https://img.shields.io/badge/-golang-00ADD8?logo=go&logoColor=white"/>
 <img alt="python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white"/>
-<img alt="python" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>
+<img alt="pulumi" src="https://img.shields.io/badge/-pulumi-6948a4?logo=pulumi&logoColor=white"/>
 <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>
   
 
