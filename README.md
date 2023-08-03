@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github.com/NicoFgrx/NicoFgrx/blob/main/img/profil.png" alt="Nicolas Faugeroux" height="200" style="margin-right: 20px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoFgrx&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
   <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. CFTER-L3 comming soon :D
