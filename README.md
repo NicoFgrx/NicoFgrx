@@ -56,6 +56,20 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pandatix/24hiut-2023-cyber?style=flat-square&labelColor=343b41"/></td>
     </tr>
+      <tr>
+      <td><a href="https://github.com/NicoFgrx/pihole-api-go"><b>(WIP) Simple pihole api client in golang</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicoFgrx/pihole-api-go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicoFgrx/pihole-api-go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicoFgrx/pihole-api-go?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicoFgrx/pihole-api-go?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/NicoFgrx/terraform-provider-pihole"><b>(WIP) First terraform provider for pihole resources</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicoFgrx/terraform-provider-pihole?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicoFgrx/terraform-provider-pihole?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicoFgrx/terraform-provider-pihole?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicoFgrx/terraform-provider-pihole?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 <!--     <tr>
       <td><a href=""><b>Comming soon</b></a></td>
       <td><img alt="Stars" src=""/></td>
