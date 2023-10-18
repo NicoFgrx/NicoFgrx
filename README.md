@@ -4,17 +4,19 @@
   <img src="https://github.com/NicoFgrx/NicoFgrx/blob/main/img/profil.png" alt="Nicolas Faugeroux" height="200" style="margin-right: 20px"/>
 </p>
 <p>
-  <strong>Hello, I'm Nicolas,</strong> cyber engineer student from <b>Tours, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. CFTER-L3 comming soon :D
+  <strong>Hello, I'm Nicolas,</strong> cyber engineer from <b>Rennes, France</b>. I am currently working on Infra as Code tools, scripting/automatication tools. CFTER-L3 comming soon :D
 
 <h3>Various techs I use</h3>
 <p>
 <img alt="ansible" src="https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white"/>
 <img alt="fortinet" src="https://img.shields.io/badge/-fortinet-EE3124?logo=fortinet&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>
+<img alt="jenkins" src="https://img.shields.io/badge/-jenkins-gray?logo=jenkins&logoColor=white&color=red"/>
 <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-E57000?logo=proxmox&logoColor=white"/>
 <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?logo=gnu%20bash&logoColor=white"/>
 <img alt="packer" src="https://img.shields.io/badge/-packer-02A8EF?logo=packer&logoColor=white"/>
 <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/-kubernetes-gray?logo=kubernetes&logoColor=white&color=blue"/>
 <img alt="cisco" src="https://img.shields.io/badge/-cisco-1BA0D7?logo=cisco&logoColor=white"/>
 <img alt="golang" src="https://img.shields.io/badge/-golang-00ADD8?logo=go&logoColor=white"/>
 <img alt="python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white"/>
